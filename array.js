@@ -43,3 +43,5 @@ arr.shift(0);
 arr.unshift();
 
 console.log(arr.items);
+
+module.exports = CustomArray;
