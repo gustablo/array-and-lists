@@ -33,6 +33,7 @@ class Stack {
     }
 
     size() {
+        console.log(this.count)
         return this.count;
     }
 
